@@ -1,0 +1,156 @@
+{
+  "register": [
+    {
+      "name": "Manita Panta",
+      "email": "mpa@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "Amrit Panta",
+      "email": "apa@gmail.com",
+      "password": "123a",
+      "id": 2
+    },
+    {
+      "name": "manee",
+      "email": "mp@gmail.com",
+      "pass": "123m",
+      "id": 3
+    },
+    {
+      "name": "Anupa Panta",
+      "email": "apa@gmail.com",
+      "pass": "123a",
+      "id": 4
+    },
+    {
+      "name": "Puspa Bajgain",
+      "email": "pba@gmail.com",
+      "pass": "123p",
+      "id": 5
+    },
+    {
+      "name": "Amrit Panta",
+      "email": "apa@gmail.com",
+      "pass": "123a",
+      "id": 6
+    },
+    {
+      "name": "Manmaya Thapa",
+      "email": "mth@gmail.com",
+      "pass": "123m",
+      "id": 7
+    },
+    {
+      "name": "Anupa Panta",
+      "email": "apa@gmail.com",
+      "pass": "123a",
+      "id": 8
+    },
+    {
+      "name": "Kalpana Ghimire",
+      "email": "kgh@gmail.com",
+      "pass": "123k",
+      "id": 9
+    },
+    {
+      "name": "Manita",
+      "email": "mp@gmail.com",
+      "pass": "123m",
+      "id": 10
+    },
+    {
+      "name": "manita Panta",
+      "email": "m@gmail.com",
+      "pass": "123e",
+      "id": 11
+    },
+    {
+      "name": "Manita",
+      "email": "mp@gmail.com",
+      "pass": "123m",
+      "id": 12
+    }
+  ],
+  "login": [
+    {
+      "name": "Manita Panta",
+      "password": "123",
+      "id": "1"
+    },
+    {
+      "name": "Amrit Panta",
+      "password": "123a",
+      "id": "SjqFd8S"
+    },
+    {
+      "name": "Manita",
+      "pass": "123",
+      "id": "s1K0ovq"
+    },
+    {
+      "name": "Manita",
+      "pass": "123",
+      "id": "5SrOvAo"
+    },
+    {
+      "name": "Manita",
+      "pass": "123",
+      "id": "HtG5ztt"
+    },
+    {
+      "name": "Amrit",
+      "pass": "123@",
+      "id": "IlA-6DZ"
+    },
+    {
+      "name": "Pragya",
+      "pass": "123",
+      "id": "l5j5P3K"
+    },
+    {
+      "name": "Manita",
+      "pass": "123",
+      "id": "0E2id7u"
+    }
+  ],
+  "students": [
+    {
+      "name": "Manita Panta",
+      "email": "mpa@gmail.com",
+      "address": "Banepa",
+      "id": 1
+    },
+    {
+      "name": "Kabita Thapa",
+      "email": "kth@gmail.com",
+      "address": "Kausaltar",
+      "id": 2
+    },
+    {
+      "name": "Amrit Panta",
+      "email": "apa@gmail.com",
+      "address": "Baneshwor",
+      "id": 3
+    },
+    {
+      "name": "Rekha Thapa",
+      "email": "rth@gmail.com",
+      "address": "Panauti",
+      "id": 4
+    },
+    {
+      "name": "Rajesh Hamal",
+      "email": "rha@gmail.com",
+      "address": "Pokhara",
+      "id": 5
+    },
+    {
+      "name": "Anmol Pandey",
+      "email": "apa@gmail.com",
+      "address": "Banepa",
+      "id": 6
+    }
+  ]
+}
